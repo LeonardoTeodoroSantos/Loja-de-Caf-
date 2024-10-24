@@ -41,7 +41,7 @@ Este projeto é sobre um site de loja de cafés brasileiros (simulação). O sit
     - O ícone também muda de classe entre `ri-close-line` e `ri-menu-line` dependendo do estado do menu.
 
     <!-- gif do funcionamento do menu abrindo e fechando -->
-    <video muted loop preload="auto" autoPlay playsInline src="https://github.com/user-attachments/assets/80181b22-a4bb-4305-b04c-00b4fe5945a9" width="80%"></video>
+    <img src="https://github.com/user-attachments/assets/0e8e6548-c194-46b1-aef1-7105dacc59e3" width="80%" border="1"> 
 
     ### 2. **Fechar o Menu ao Clicar em um Link**
 
@@ -56,8 +56,8 @@ Este projeto é sobre um site de loja de cafés brasileiros (simulação). O sit
     - O ícone do botão é redefinido para `ri-menu-line`.
 
     <!-- gif do funcionamento de clicar em um dos links e fechar o menu -->
-    <video muted loop preload="auto" autoPlay playsInline src="https://github.com/user-attachments/assets/e88dec4a-de0f-428f-be1f-34203857948a" width="80%"></video>
-
+    <img src="https://github.com/user-attachments/assets/2b970f3d-566d-46d9-a569-a3157bdb9a02" width="80%" border="1">
+    
     ### 3. **Slides dos Clientes**
 
     <img src="https://github.com/user-attachments/assets/710bea11-3d86-4c31-8751-36438ba4dbfb" width="60%" border="1">
@@ -77,7 +77,7 @@ Este projeto é sobre um site de loja de cafés brasileiros (simulação). O sit
     - Um evento `click` é adicionado a cada bullet, que ao ser clicado, muda o slide atual.
 
     <!-- gif do funcionamento dos bullets de slides -->
-    <video muted loop preload="auto" autoPlay playsInline src="https://github.com/user-attachments/assets/3b04c4e5-bf8c-46d6-a388-5628f9f8483f" width="80%"></video>
+    <img src="https://github.com/user-attachments/assets/e01b9e94-11f9-437b-9a4f-de96ef55ead0" width="80%" border="1">
 
     ### 4. **Efeitos de Interseção**
 
@@ -94,7 +94,7 @@ Este projeto é sobre um site de loja de cafés brasileiros (simulação). O sit
     - Os elementos com a classe "hidden" são observados. Assim que se tornam visíveis, recebem a classe "show", que pode ser estilizada para criar animações ou efeitos.
 
     <!-- gif do funcionamento do efeito de interseção -->
-    <video muted loop preload="auto" autoPlay playsInline src="https://github.com/user-attachments/assets/c58dfea1-1da8-4b13-b90c-c83fb6120dc5" width="80%"></video>
+    <img src="https://github.com/user-attachments/assets/7063a43c-d585-401a-95b2-c01404970af5" width="80%" border="1">
 
     #### RESUMO
     O arquivo Javascript implementa um **menu responsivo**, **bullets de slides** e **efeitos de interseção** para elementos da página. Cada parte do código tem um propósito específico para melhorar a interação do usuário e a estética da página.
